@@ -21,16 +21,8 @@ define([
   });
 
   Backbone.Leaflet.MarkerModel = Backbone.Model.extend({
-    popup: null,
-
     initialize: function (attributes, options) {
       this.options = options;
-    }
-  });
-
-  Backbone.Leaflet.MarkersCollection = Backbone.Collection.extend({
-    initialize: function (models, options) {
-
     }
   });
 
