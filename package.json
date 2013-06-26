@@ -1,0 +1,18 @@
+{
+  "name": "backbone.leaflet",
+  "version": "0.0.0",
+  "description": "",
+  "main": "backbone.leaflet.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gmurphey/backbone.leaflet.git"
+  },
+  "author": "Garrett Murphey",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/gmurphey/backbone.leaflet/issues"
+  }
+}
